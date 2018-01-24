@@ -1,0 +1,7 @@
+function() {
+if (this === that) {
+return 'this'; 
+} else {
+return 'that';
+}
+}
